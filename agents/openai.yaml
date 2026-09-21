@@ -1,0 +1,4 @@
+interface:
+  display_name: "交互式 HTML 幻灯片"
+  short_description: "制作可离线演示、逐步揭题并支持主持计时的交互式 HTML 幻灯片"
+  default_prompt: "使用 $interactive-html-slides 制作一份有效沟通主题的互动演讲网页，包含 8 道题和演讲计时。"
